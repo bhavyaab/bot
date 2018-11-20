@@ -1,0 +1,14 @@
+{
+  "name": "botapp",
+  "version": "1.0.0",
+  "description": "microsoft bot fremwork ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bhavya Bharti",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
